@@ -1,0 +1,7 @@
+C:\Users\myach\source\repos\AlfaTask\AlfaTask\bin\Debug\AlfaTask.exe.config
+C:\Users\myach\source\repos\AlfaTask\AlfaTask\bin\Debug\AlfaTask.exe
+C:\Users\myach\source\repos\AlfaTask\AlfaTask\bin\Debug\AlfaTask.pdb
+C:\Users\myach\source\repos\AlfaTask\AlfaTask\obj\Debug\AlfaTask.csprojAssemblyReference.cache
+C:\Users\myach\source\repos\AlfaTask\AlfaTask\obj\Debug\AlfaTask.csproj.CoreCompileInputs.cache
+C:\Users\myach\source\repos\AlfaTask\AlfaTask\obj\Debug\AlfaTask.exe
+C:\Users\myach\source\repos\AlfaTask\AlfaTask\obj\Debug\AlfaTask.pdb
